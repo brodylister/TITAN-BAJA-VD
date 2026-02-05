@@ -33,7 +33,7 @@ This data approach allows us to make informed adjustments to **spring rates, fly
 
 - [x] Hall effect sensor – Primary RPM  
 - [x] Hall effect sensor – Secondary RPM  
-- [ ] Hall effect sensor – Wheel RPM  
+- [x] Hall effect sensor – Disk Brake RPM  
 - [x] Push button (test control / reset)  
 - [x] LED indicators (system status)  
 - [x] Real-Time Clock (RTC)  
