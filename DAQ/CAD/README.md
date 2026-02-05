@@ -32,7 +32,7 @@ The DAQ electrical system follows a consistent wire color and gauge standard to 
   - Logic signal  
 
 ### Shielded Signal
-- **Green – 22 AWG, Shielded**  
+- **Green – 22 AWG**  
   - Noise-sensitive sensor signals  
 
 ---
