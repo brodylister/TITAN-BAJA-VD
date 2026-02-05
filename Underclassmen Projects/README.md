@@ -14,7 +14,7 @@ If you’re interested, **reach out to Katia on Discord**, and she can answer an
 - [ ] Display outputs for:
   - [ ] Hall effect sensor (Primary RPM)  
   - [ ] Hall effect sensor (Secondary RPM)  
-  - [ ] Hall effect sensor (Wheel speed)  
+  - [ ] Hall effect sensor (Disk Brake RPM)  
 
 ---
 
